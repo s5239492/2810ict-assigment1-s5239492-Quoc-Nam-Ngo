@@ -1,0 +1,182 @@
+commit f80274e27d10ecccbe4fc5db43a09c259c9ca1f1
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sun Oct 9 23:42:35 2022 +1000
+
+    added manual user
+
+commit 6be31850105d563b90ee80fd1fef5bddc3b0636d
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Oct 9 23:40:18 2022 +1000
+
+    updated git log of Tanvir
+
+commit bdc5e36da6e99724572c4b6cc8135b5e878242d2
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Oct 9 23:37:11 2022 +1000
+
+    updated assignment part b doc
+
+commit 30d70a76144fac678e8452d8779a48b833e6e07e
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sun Oct 9 22:08:48 2022 +1000
+
+    updated Software design doc
+
+commit 04e6776cc2269ecf209c659b26f99d9975360e41
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Mon Sep 5 14:30:51 2022 +1000
+
+    updated Software Design Document
+
+commit c2147dbe5ecdf553f947c772c5f80d341c571342
+Merge: 6ab63bf 00b873d
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Mon Sep 5 14:27:23 2022 +1000
+
+    Merge branch 'main' of https://github.com/s5239492/2810ict-assigment1-s5239492-Quoc-Nam-Ngo
+
+commit 6ab63bfb130632aafaa5a0441f5ef425706b0511
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Mon Sep 5 14:26:52 2022 +1000
+
+    delete design doc to update new one
+
+commit 00b873d94f1541dcdade1a961a26fca3e072d4df
+Author: tszhoill <alexleung9407@gmail.com>
+Date:   Sun Sep 4 22:47:09 2022 +1000
+
+    added Tsz git log
+
+commit 6d16640b4fb691d34b22a34e4c4815197f0d208c
+Author: tszhoill <alexleung9407@gmail.com>
+Date:   Sun Sep 4 22:42:06 2022 +1000
+
+    added project plan
+
+commit 74f9e814df6761b14810eac700b248bf2dea3aff
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:59:05 2022 +1000
+
+    Md Tanvir Gitlog added
+
+commit bf58bdd19d9a9eea3145e168317809f37f9db25e
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:54:34 2022 +1000
+
+    updated WBS added
+
+commit 271919258af115667efbade497a7dc83cf92f7c9
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:50:58 2022 +1000
+
+    delete WBS
+
+commit bbdde954c38fa3cc7c33b977268ff4e32eb0e5bf
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:48:42 2022 +1000
+
+    added updated WBS
+
+commit b2832278224d566c019534a9762a5efffb3c0d56
+Merge: 854f9b4 1adb306
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:47:05 2022 +1000
+
+    Merge branch 'main' of https://github.com/s5239492/2810ict-assigment1-s5239492-Quoc-Nam-Ngo
+
+commit 854f9b4b19c487065410e75700157036aba7ee5e
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 21:46:58 2022 +1000
+
+    delete  added WBS
+
+commit 1adb306d5b141652f00e9406ce36beead742e0b5
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sun Sep 4 21:14:02 2022 +1000
+
+    Quoc's Gitlog added
+
+commit 94f62863579fa0e837f37808720f4427f046985e
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sun Sep 4 21:06:22 2022 +1000
+
+    updated Software Design Document Quoc's parts
+
+commit be9a07cd963eb3aa159defb845d7306768570231
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sun Sep 4 21:02:38 2022 +1000
+
+    delete to update design doc Quoc'parts
+
+commit 780bd95f1f4f7432771dcf5f88c4e6062261cadc
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:48:16 2022 +1000
+
+    Activity definition and estimition added
+
+commit c412eefd332affce691e6774ef44f664534d6e0b
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:47:16 2022 +1000
+
+    WBS added
+
+commit 2940ccbcf8a4eff137176dfe5c26fe012794a40f
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:46:32 2022 +1000
+
+    Gantt chart added
+
+commit fb68786a1088efad01bb4f9324b3ddff02387170
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:32:32 2022 +1000
+
+    delete the added WBS
+
+commit c3797cd1f3cd55849c0bace3887fda08ac247181
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:31:14 2022 +1000
+
+    delete the added Ganttchart
+
+commit a67cf1405066c38c35ab91904a81740b8d14dea6
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:03:14 2022 +1000
+
+    WBS added
+
+commit bab3603dc8e13071e801819f0c7a7511c4f7ee7d
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 16:01:54 2022 +1000
+
+    Ganttchart added
+
+commit 1058d614401693b9360186bc99923f5c95286d7c
+Merge: 010a7a3 2f36b63
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 15:57:12 2022 +1000
+
+    Merge branch 'main' of https://github.com/s5239492/2810ict-assigment1-s5239492-Quoc-Nam-Ngo
+
+commit 010a7a3e61de83c7c2e15eeaf1c96db09d628e31
+Author: Md Tanvir <mdtanvirmannan@gmail.com>
+Date:   Sun Sep 4 15:56:12 2022 +1000
+
+    delete the added Ganttchart
+
+commit 2f36b63009239e1d98024600cf7c78853002955f
+Author: s5239492 <quocnam.ngo@griffithuni.edu.au>
+Date:   Sat Sep 3 21:28:54 2022 +1000
+
+    Software Design Document - Quoc's parts added
+
+commit 88f27b07fa25d7213ca269a4ed41c337633af186
+Author: Md Tanvir Mannan <mdtanvirmannan@gmail.com>
+Date:   Thu Sep 1 15:39:43 2022 +1000
+
+    gantt chart added
+
+commit 9b0dcc1c02f949b5dbfe9c9480cf9a5e73944e22
+Author: s5239492 <101847898+s5239492@users.noreply.github.com>
+Date:   Thu Sep 1 15:17:41 2022 +1000
+
+    Initial commit
